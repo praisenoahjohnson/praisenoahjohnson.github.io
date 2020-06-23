@@ -1601,7 +1601,7 @@ input, select, textarea {
 /* Banner */
 
 	#banner-wrapper {
-		background: #c8d2bc url(images/bg1.png);
+		background: #c8d2bc url(images/bg1.jpg);
 		padding: 2em 0;
 	}
 
@@ -1610,10 +1610,10 @@ input, select, textarea {
 		width: 100%;
 		padding: 6em 0;
 		border-radius: 10px;
-		background-image: url(images/banner.jpg);
+		background-image: url(images/banner.png);
 		background-size: cover;
 		text-align: center;
-		box-shadow: inset 0 0 0 20px #fff;
+		box-shadow: inset 0 0 0 10px black;
 	}
 
 		#banner h2 {
