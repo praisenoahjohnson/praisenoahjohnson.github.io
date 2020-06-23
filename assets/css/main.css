@@ -1502,6 +1502,12 @@ input, select, textarea {
 		box-shadow: inset 0px 0px 0px 1px #18a8c8;
 	}
 
+
+	.disabled {
+  		opacity: 0.6;
+  		cursor: not-allowed;
+	} 
+
 		.button:hover {
 			background-image: -moz-linear-gradient(top, #1b9fbe, #118eb1);
 			background-image: -webkit-linear-gradient(top, #1b9fbe, #118eb1);
