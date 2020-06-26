@@ -1455,6 +1455,11 @@ sub {font-size: small; vertical-align: sub;}
 			width: 100%;
 		}
 
+	ul.list li {
+		overflow: hidden;
+		margin-bottom: 1.5em;
+	}
+
 	ul.small-image-list li {
 		overflow: hidden;
 		margin-bottom: 1.5em;
