@@ -71,6 +71,8 @@ input, select, textarea {
 	appearance: none;
 }
 
+sub {font-size: small; vertical-align: sub;}
+
 /* Basic */
 
 	html {
